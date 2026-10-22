@@ -2,7 +2,7 @@
 
 Este repositorio es una demostración de maquetación web y despliegue en tiempo real utilizando **GitHub Pages**. Corresponde a una landing page moderna e interactiva adaptada para dispositivos móviles y de escritorio.
 
-🔗 **Ver sitio desplegado:** [Demo en vivo en GitHub Pages] https://danielcuartas08.github.io/Landing-page-demo/
+🔗 **Ver sitio desplegado:** [Demo en vivo en GitHub Pages](https://danielcuartas08.github.io/Landing-page-demo/)
 
 ### 🛠️ Tecnologías Utilizadas
 
